@@ -6,3 +6,6 @@ I have a special fondness for **Hyderabad** due to its unique blend of historica
 1. Swimming
 2. Eating
 3. Running
+* Chicken
+* mutton
+* spices

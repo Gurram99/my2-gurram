@@ -28,6 +28,8 @@ Sports are a vital and universal aspect of human culture, transcending borders a
 |   Cricket               | Improves physical health                           |   15              |
 |   Badminton             | Increase muscle power                              |   20              |
 |   Basketball            | helps to increase stamina                          |   15              |
+|   Football              | helps to increase leg power                        |   15              |
+
 
 ****
  

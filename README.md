@@ -40,7 +40,7 @@ Sports are a vital and universal aspect of human culture, transcending borders a
 
 ### Code Snippet
 
-Sample Question:<https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php#:~:text=The%20answer%20is%20to%20use,return%20the%20client's%20IP%20address.>
+Sample Question:<https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
 
 ~~~~
 <form action="iframe.php" target="my-iframe" method="post">

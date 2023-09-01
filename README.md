@@ -28,8 +28,32 @@ Sports are a vital and universal aspect of human culture, transcending borders a
 |   Cricket               | Improves physical health                           |   15              |
 |   Badminton             | Increase muscle power                              |   20              |
 |   Basketball            | helps to increase stamina                          |   15              |
+
+****
  
 ### Pithy Quotes
 
 > 1. “Better to remain silent and be thought a fool than to speak out and remove all doubt.” by _Abraham Lincoln_
 > 2. “I love being married. It’s so great to find that one special person you want to annoy for the rest of your life.” by _Rita Rudner_
+
+****
+
+### Code Snippet
+
+Sample Question:<https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php#:~:text=The%20answer%20is%20to%20use,return%20the%20client's%20IP%20address.>
+
+~~~~
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+~~~~
+
+[Click here for the sample Snippet Reference Link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+

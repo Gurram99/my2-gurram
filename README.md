@@ -11,3 +11,14 @@ I have a special fondness for **Hyderabad** due to its unique blend of historica
 * spices
 
 [Link to MyStats.md](https://github.com/Gurram99/my2-gurram/blob/main/MyStats.md)
+
+### Types of sports
+
+Sports are a vital and universal aspect of human culture, transcending borders and languages to bring people together in the pursuit of physical excellence and competition.
+
+|   **Name of Sport**     |    **Reason for Recommend**                        | **Avg hours**     |
+|-------------------------|----------------------------------------------------|-------------------|
+|   Cricket               | Improves physical health                           |   15              |
+|   Badminton             | Increase muscle power                              |   20              |
+|   Basketball            | helps to increase stamina                          |   15              |
+ 
